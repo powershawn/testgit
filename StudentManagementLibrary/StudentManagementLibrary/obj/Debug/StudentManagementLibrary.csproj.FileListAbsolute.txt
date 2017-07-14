@@ -1,0 +1,1 @@
+C:\cs283-25\StudentManagementLibrary\StudentManagementLibrary\obj\Debug\StudentManagementLibrary.csprojResolveAssemblyReference.cache
